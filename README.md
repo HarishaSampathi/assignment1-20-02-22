@@ -21,19 +21,14 @@ while n>0:
         
     print(count)
     n=n-1
-output:
-7 
+Input
+4
+2
+10
+4
+20
+Output
+1
 4
 2
 8
-4
-5
-3
-9
-4
-6
-3
-4
-2
-8
-4
